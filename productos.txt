@@ -1,0 +1,20 @@
+[
+ {
+ "title": "Cuaderno",
+ "price": 200.45,
+ "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/book-note-paper-school-256.png",
+ "id": 1
+ },
+ {
+ "title": "Tijera",
+ "price": 194.00,
+ "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/books-learn-school-study-256.png",
+ "id": 2
+ },
+ {
+ "title": "Globo Terráqueo",
+ "price": 999.99,
+ "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png",
+ "id": 3
+ }
+]
